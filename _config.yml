@@ -1,5 +1,3 @@
-remote_theme : mmistakes/minimal-mist
-
 # Site settings
 title: Another Blog
 url: "http://juhui.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
@@ -9,10 +7,10 @@ description: >
   One or more sentences introducing this blog.
 
 # Your information
-email: your_email@example.com
-author: your_name
+email: aeon48@naver.com
+author: 김주희
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: One sentence introducing yourself.
+profile: 안녕
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
