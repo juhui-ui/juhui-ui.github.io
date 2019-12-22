@@ -6,7 +6,7 @@ categories: jekyll update
 permalink: /archivers/hello
 ---
 
-##공부 계획 
+## 공부 계획 ##
 
 
 * **정보처리산업기사** 공부
