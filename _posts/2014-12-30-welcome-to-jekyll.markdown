@@ -6,7 +6,7 @@ categories: jekyll update
 permalink: /archivers/hello
 ---
 
-## 겨울방학 공부계획 ##  :wink: 
+##겨울방학 공부계획 :wink: 
 
 
 * **정보처리산업기사** 공부
