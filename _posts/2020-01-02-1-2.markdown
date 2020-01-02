@@ -21,7 +21,7 @@ permalink: /archivers/hello
 
 
 
-* **정보보안(산업)기사** 공부 - 시험분석 및 계획설정
+* **정보보안(산업)기사** 공부 
 
 - 이기적 정보보안(산업)기사 이론서 학습일정 계획하기
 ![이론서일정](https://user-images.githubusercontent.com/55095660/71665369-fd3e7400-2d9f-11ea-9be8-e15747b0fa62.jpg)
