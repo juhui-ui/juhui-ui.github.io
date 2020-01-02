@@ -7,24 +7,22 @@ permalink: /archivers/hello
 ---
 
 ## 모각코 첫번째 모임(결과) ##
-==========
+
 
 > **리눅스** 학습 ( 인프런 강의 ) - 환경구축 및 강의 수강
 
-* 가상머신에 우분투 리눅스 운영체제 설치<br>
+* 가상머신에 우분투 리눅스 운영체제 설치<br><br>
 ![환경구축](https://user-images.githubusercontent.com/55095660/71665113-eea38d00-2d9e-11ea-953b-92b577c1ee2a.PNG)
-<br><br>
+<br><br><br>
 
 
-
-* 오늘 수강한 인프런 강의 목록<br>
+* 오늘 수강한 인프런 강의 목록<br><br>
 ![강의목록1](https://user-images.githubusercontent.com/55095660/71664955-6e7d2780-2d9e-11ea-977d-db74a36cfa7c.PNG)
-<br><br>
-
+<br><br><br>
 
 
 > **정보보안(산업)기사** 공부 
 
-- 이기적 정보보안(산업)기사 이론서 학습일정 계획하기<br>
+- 이기적 정보보안(산업)기사 이론서 학습일정 계획하기<br><br>
 ![이론서일정](https://user-images.githubusercontent.com/55095660/71665369-fd3e7400-2d9f-11ea-9be8-e15747b0fa62.jpg)
-<br><br>
+<br><br><br>
