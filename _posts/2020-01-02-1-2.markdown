@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "모각코 첫번째 모임(결과) :wink:"
+date:   2020-01-02 21:00:00
+categories: jekyll update
+permalink: /archivers/hello
+---
+
+## 모각코 첫번째 모임(결과) ##
+
+* **리눅스** 학습 ( 인프런 강의 ) - 환경구축 및 강의 수강
+
+![환경구축](https://user-images.githubusercontent.com/55095660/71665113-eea38d00-2d9e-11ea-953b-92b577c1ee2a.PNG)
+- 가상머신에 우분투 리눅스 운영체제 설치
+
+![강의목록1](https://user-images.githubusercontent.com/55095660/71664955-6e7d2780-2d9e-11ea-977d-db74a36cfa7c.PNG)
+- 오늘 수강한 인프런 강의 목록
+
+
+* **정보보안(산업)기사** 공부 - 시험분석 및 계획설정
