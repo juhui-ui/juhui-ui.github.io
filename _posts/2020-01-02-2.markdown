@@ -6,7 +6,7 @@ categories: jekyll update
 permalink: /archivers/hello
 ---
 
-## 모각코 첫번째 모임 ##
+## 모각코 첫번째 모임11 ##
 
 * **OT** - 자기소개 및 학습목표 공유
 * **리눅스** 학습 ( 인프런 강의 ) - 환경구축
