@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "모각코 첫번째 모임 :wink:"
+date:   2020-01-02 23:00:00
+categories: jekyll update
+permalink: /archivers/hello
+---
+
+## 모각코 첫번째 모임 ##
+
+* **OT** - 자기소개 및 학습목표 공유
+* **리눅스** 학습 ( 인프런 강의 ) - 환경구축
+* **정보보안(산업)기사** 공부 - 시험 분석 
