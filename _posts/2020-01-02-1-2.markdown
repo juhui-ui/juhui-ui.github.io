@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ":memo: 모각코 첫번째 모임(결과)"
+title: ":memo: 모각코 첫번째 모임(결과)"
 date:   2020-01-02 21:00:00
 categories: jekyll update
 permalink: /archivers/hello
