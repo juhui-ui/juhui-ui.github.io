@@ -3,7 +3,7 @@ layout: post
 title:  ":pushpin: 모각코 세번째 모임"
 date:   2020-01-09 19:00:00
 categories: jekyll update
-permalink: /archivers/start2
+permalink: /archivers/start3
 ---
 
 ## 모각코 세번째 모임 ##
