@@ -1,1 +1,28 @@
+---
+layout: post
+title: ":memo: 모각코 세번째 모임(결과)"
+date:   2020-01-09 22:00:00
+categories: jekyll update
+permalink: /archivers/result3
+---
+
+## 모각코 세번째 모임(결과) ##
+<br><br>
+
+
+> **리눅스** 학습 ( 인프런 강의 ) - 강의수강 및 실습
+
+* 오늘 수강한 인프런 강의 목록<br><br>
 ![강의목록4](https://user-images.githubusercontent.com/55095660/72065356-620a4900-3321-11ea-8503-cbada1b8577b.PNG)
+<br><br><br>
+
+
+> **정보보안(산업)기사** 개념정리 및 문제풀기
+
+- 이기적 정보보안(산업)기사 이론서 개념정리<br><br>
+
+![2-2](https://user-images.githubusercontent.com/55095660/71948989-3b5eec00-3215-11ea-9dab-1957032fbccd.jpg)
+
+<br><br><br>
+
+
