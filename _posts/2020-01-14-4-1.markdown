@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  ":pushpin: 모각코 네번째 모임"
-date:   2020-01-09 18:00:00
+date:   2020-01-14 18:00:00
 categories: jekyll update
 permalink: /archivers/start4
 ---
