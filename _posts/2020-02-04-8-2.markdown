@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ":memo: 모각코 여덟번째 모임(결과)"
-date:   2020-02-05 21:00:00
+date:   2020-02-04 21:00:00
 categories: jekyll update
 permalink: /archivers/result8
 ---
