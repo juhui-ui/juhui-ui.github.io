@@ -12,8 +12,7 @@ permalink: /archivers/result9
 
 > **리눅스** 학습 ( 인프런 강의 ) - 강의수강 및 실습
 
-* 오늘 수강한 인프런 강의 목록<br><br>![강의목록6](https://user-images.githubusercontent.com/55095660/72765520-1feddb00-3c30-11ea-8dbf-e937f1fc1fdd.PNG)
-<br><br><br>
+* 오늘 수강한 인프런 강의 목록<br><br>![강의목록9](https://user-images.githubusercontent.com/55095660/74422213-9b3e5780-4e91-11ea-90d0-379905d31ada.PNG)
 
 
 > **정보보안(산업)기사** 개념정리 및 문제풀기
