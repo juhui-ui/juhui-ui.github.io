@@ -15,6 +15,10 @@ permalink: /archivers/result7
 * 오늘 수강한 인프런 강의 목록<br><br>
 ![강의목록7](https://user-images.githubusercontent.com/55095660/74534067-50e2d680-4f76-11ea-9798-571cbeace982.PNG)
 <br><br><br>
+* 실습 화면<br><br>
+![apache3](https://user-images.githubusercontent.com/55095660/74537310-2d6f5a00-4f7d-11ea-9a1a-236c829c5a91.PNG)
+<br><br><br>
+
 
 
 > **정보보안(산업)기사** 개념정리 및 문제풀기
